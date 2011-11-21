@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact Manager</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0b1/jquery.mobile-1.0b1.min.css" />
+<script src="http://code.jquery.com/jquery-1.6.1.min.js"></script>
+<script src="http://code.jquery.com/mobile/1.0b1/jquery.mobile-1.0b1.min.js"></script>
+<script type="text/javascript" src="forcetk.js"></script>
+<script type="text/javascript" src="contact.js"></script>
+<script type="text/javascript" src="login.js"></script>
+ 
+<script type="text/javascript" src="phonegap-1.0.0.js"></script>
+
+</head>
+
+<body onload="onBodyLoad()">
+	<div data-role="page" data-theme="b" id="loginpage">
+
+	    <div data-role="header">
+	        <h1>Contact Manager</h1>
+	    </div>
+	    <div data-role="content">
+	        <form>
+	            <button data-role="button" id="login" >Login</button>
+		    </form>
+	    </div>
+	</div>
+	
+	<div data-role="page" data-theme="b" id="mainpage">
+            
+        <div data-role="header">
+            <a href='#loginpage' id="logout" class='ui-btn-left' data-icon='home' >Home</a>
+            <h1>Contacts</h1>
+        </div>
+        <div data-role="content">
+            <ul id="contactList" data-inset="true" data-role="listview" 
+                data-theme="c" data-dividertheme="b">
+            </ul>
+        </div>
+    </div>
+    
+    <div data-role="page" data-theme="b" id="detailpage">
+        <div data-role="header">
+            <a href='#mainpage' id="backAlbums" class='ui-btn-left' data-icon='arrow-l' >Contacts</a>
+            <h1>Contact</h1>
+        </div>
+        <div data-role="content">
+            <h1 id="ContactName"></h1>
+        </div>
+    </div>
+
+</body>
+</html>

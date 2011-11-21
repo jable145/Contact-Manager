@@ -1,0 +1,181 @@
+// !$*UTF8*$!
+{
+	C212D86213E7253C00EAF26D /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = ED33D7C8142900F900A0F15C /* CloudtunesContainer */;
+		activeTarget = C212D86D13E7253C00EAF26D /* CloudtunesContainer */;
+		codeSenseManager = ED33D8241429011200A0F15C /* Code sense */;
+		executables = (
+			ED33D7C8142900F900A0F15C /* CloudtunesContainer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1020,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 338238472;
+			PBXWorkspaceStateSaveDate = 338238472;
+		};
+		perUserProjectItems = {
+			ED33D83F1429071800A0F15C /* PBXTextBookmark */ = ED33D83F1429071800A0F15C /* PBXTextBookmark */;
+			ED33D8411429071800A0F15C /* PBXTextBookmark */ = ED33D8411429071800A0F15C /* PBXTextBookmark */;
+			ED33D8431429071800A0F15C /* PBXTextBookmark */ = ED33D8431429071800A0F15C /* PBXTextBookmark */;
+			ED47E84A14291C1E00B96FEB /* PBXTextBookmark */ = ED47E84A14291C1E00B96FEB /* PBXTextBookmark */;
+			ED69A71714291AD100DA072C /* PBXTextBookmark */ = ED69A71714291AD100DA072C /* PBXTextBookmark */;
+		};
+		sourceControlManager = ED33D8231429011200A0F15C /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	C212D86D13E7253C00EAF26D /* CloudtunesContainer */ = {
+		activeExec = 0;
+		executables = (
+			ED33D7C8142900F900A0F15C /* CloudtunesContainer */,
+		);
+	};
+	C212D8B113E7253C00EAF26D /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1198, 500}}";
+			sepNavSelRange = "{167, 0}";
+			sepNavVisRange = "{0, 867}";
+		};
+	};
+	C212D8B213E7253C00EAF26D /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1113, 3666}}";
+			sepNavSelRange = "{630, 0}";
+			sepNavVisRange = "{21, 1394}";
+			sepNavWindowFrame = "{{471, 161}, {1172, 865}}";
+		};
+	};
+	ED33D7C8142900F900A0F15C /* CloudtunesContainer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = CloudtunesContainer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	ED33D8231429011200A0F15C /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	ED33D8241429011200A0F15C /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	ED33D83F1429071800A0F15C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED33D8401429071800A0F15C /* oauthcallback.html */;
+		name = "oauthcallback.html: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1582;
+		vrLoc = 0;
+	};
+	ED33D8401429071800A0F15C /* oauthcallback.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = oauthcallback.html;
+		path = /Users/Snowleopard/Desktop/Container/www/oauthcallback.html;
+		sourceTree = "<absolute>";
+	};
+	ED33D8411429071800A0F15C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED33D8421429071800A0F15C /* login.js */;
+		name = "login.js: 23";
+		rLen = 0;
+		rLoc = 706;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 0;
+	};
+	ED33D8421429071800A0F15C /* login.js */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.javascript;
+		name = login.js;
+		path = /Users/Snowleopard/Desktop/Container/www/login.js;
+		sourceTree = "<absolute>";
+	};
+	ED33D8431429071800A0F15C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = ED33D8441429071800A0F15C /* index.html */;
+		name = "index.html: 16";
+		rLen = 0;
+		rLoc = 628;
+		rType = 0;
+		vrLen = 1396;
+		vrLoc = 0;
+	};
+	ED33D8441429071800A0F15C /* index.html */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = text.html;
+		name = index.html;
+		path = /Users/Snowleopard/Desktop/Container/www/index.html;
+		sourceTree = "<absolute>";
+	};
+	ED47E84A14291C1E00B96FEB /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C212D8B113E7253C00EAF26D /* AppDelegate.h */;
+		name = "AppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 867;
+		vrLoc = 0;
+	};
+	ED69A71714291AD100DA072C /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C212D8B113E7253C00EAF26D /* AppDelegate.h */;
+		name = "AppDelegate.h: 9";
+		rLen = 0;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 867;
+		vrLoc = 0;
+	};
+}

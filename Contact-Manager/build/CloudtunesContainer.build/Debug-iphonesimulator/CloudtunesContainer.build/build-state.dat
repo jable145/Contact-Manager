@@ -1,0 +1,659 @@
+TCloudtunesContainer
+v7
+r0
+t338232005.499701
+cCheck dependencies
+cProcessInfoPlistFile /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/Info.plist SFPGContainer/CloudtunesContainer-Info.plist
+cProcessPCH /var/folders/KQ/KQD0vCU4E+eDcbtEfgCX-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudtunesContainer-Prefix-elqvbjvsewltwifqzpdhcmwirldx/CloudtunesContainer-Prefix.pch.gch SFPGContainer/CloudtunesContainer-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/main.o /Users/Snowleopard/Desktop/Container/SFPGContainer/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCompileC build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/AppDelegate.o /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+cCopyStringsFile /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/en.lproj/InfoPlist.strings SFPGContainer/en.lproj/InfoPlist.strings
+cCopyStringsFile /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/en.lproj/Localizable.strings SFPGContainer/Resources/en.lproj/Localizable.strings
+cCopyStringsFile /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/es.lproj/Localizable.strings SFPGContainer/Resources/es.lproj/Localizable.strings
+cCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/icon.png SFPGContainer/Resources/icons/icon.png
+cCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/icon@2x.png SFPGContainer/Resources/icons/icon@2x.png
+cCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/icon-72.png SFPGContainer/Resources/icons/icon-72.png
+cCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/Default.png SFPGContainer/Resources/splash/Default.png
+cCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/Default@2x.png SFPGContainer/Resources/splash/Default@2x.png
+cCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/Capture.bundle SFPGContainer/Resources/Capture.bundle
+cCopyPlistFile /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/PhoneGap.plist SFPGContainer/PhoneGap.plist
+cCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/www www
+cCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/Default~iPad.png SFPGContainer/Resources/splash/Default~iPad.png
+cCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/Default-Portrait~ipad.png SFPGContainer/Resources/splash/Default-Portrait~ipad.png
+cPhaseScriptExecution "Run Script" /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Script-C212D86C13E7253C00EAF26D.sh
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/AVFoundation
+c000000004CC1288A00000000000F34A0
+t1287727242
+s996512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBook.framework/AddressBook
+c000000004CC122E10000000000075FE0
+t1287725793
+s483296
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AddressBookUI.framework/AddressBookUI
+c000000004CC129090000000000151F20
+t1287727369
+s1384224
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000004CC1224600000000001EA9C0
+t1287725638
+s2009536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c000000004CC1224400000000001C3D40
+t1287725636
+s1850688
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004CC127E80000000000074190
+t1287727080
+s475536
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreMedia.framework/CoreMedia
+c000000004CC127FC0000000000063DD0
+t1287727100
+s409040
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004CC6569800000000001AAD60
+t1288066712
+s1748320
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/MobileCoreServices.framework/MobileCoreServices
+c000000004CC122D0000000000005BF20
+t1287725776
+s376608
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.h
+c000000004CC121DF00000000000004F5
+t1287725535
+s1269
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Security.framework/Security
+c000000004CC121E20000000000088320
+t1287725538
+s557856
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c000000004CC121F60000000000068970
+t1287725558
+s428400
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libxml2.dylib
+c000000004CC10DA50000000000122A50
+t1287720357
+s1190480
+
+N/Users/Shared/PhoneGap/Frameworks/PhoneGap.framework/PhoneGap
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.h
+c000000004E3B27040000000000000363
+t1312499460
+s867
+i<UIKit/UIKit.h>
+i<PhoneGap/PhoneGapDelegate.h>
+i"PhoneGapDelegate.h"
+i"SFOAuthCoordinator.h"
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m
+c000000004E78CA910000000000002318
+t1316539025
+s8984
+i"AppDelegate.h"
+i<PhoneGap/PhoneGapViewController.h>
+i"PhoneGapViewController.h"
+i"SFOAuthCredentials.h"
+i"SFRestAPI.h"
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/CloudtunesContainer-Prefix.pch
+c000000004E3A16AC00000000000000C3
+t1312429740
+s195
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/PhoneGap.plist
+c000000004E3A16AC0000000000000560
+t1312429740
+s1376
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/Capture.bundle
+c000000004E3A16AC0000000000000242
+t1312429740
+s578
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/en.lproj/Localizable.strings
+c000000004E3A16AC0000000000000248
+t1312429740
+s584
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/es.lproj/Localizable.strings
+c000000004E3A16AC0000000000000254
+t1312429740
+s596
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/icons/icon-72.png
+c000000004E3A16AC00000000000013B9
+t1312429740
+s5049
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/icons/icon.png
+c000000004E3A16AC0000000000000C36
+t1312429740
+s3126
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/icons/icon@2x.png
+c000000004E3A16AC00000000000014DC
+t1312429740
+s5340
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default-Portrait~ipad.png
+c000000004E3A16AC0000000000009A7D
+t1312429740
+s39549
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default.png
+c000000004E3A16AC000000000000661D
+t1312429740
+s26141
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default@2x.png
+c000000004E3A16AC0000000000013DA9
+t1312429740
+s81321
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default~iPad.png
+c000000004E3A16AC0000000000009A7D
+t1312429740
+s39549
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/en.lproj/InfoPlist.strings
+c000000004E3A16AC000000000000002D
+t1312429740
+s45
+
+N/Users/Snowleopard/Desktop/Container/SFPGContainer/main.m
+c000000004E3A16AC0000000000000179
+t1312429740
+s377
+i<UIKit/UIKit.h>
+
+N/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/AppDelegate.o
+t2
+s0
+
+N/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/CloudtunesContainer.LinkFileList
+c000000004E78CB1D0000000000000127
+t1316539165
+s295
+
+N/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/main.o
+t1316539166
+s3292
+
+N/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Script-C212D86C13E7253C00EAF26D.sh
+c000000004E78CB1D0000000000000270
+t1316539165
+s624
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app
+t1316539166
+s544
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app.dSYM
+t2
+s0
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/Capture.bundle
+t1316539166
+s578
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/CloudtunesContainer
+t2
+s0
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/Default-Portrait~ipad.png
+t1316539166
+s39549
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/Default.png
+t1316539166
+s26141
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/Default@2x.png
+t1316539166
+s81321
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/Default~iPad.png
+t1316539166
+s39549
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/Info.plist
+t1316539165
+s915
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/PhoneGap.plist
+t1316539166
+s810
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/PkgInfo
+t1316539165
+s8
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/en.lproj/InfoPlist.strings
+t1316539166
+s42
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/en.lproj/Localizable.strings
+t1316539166
+s142
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/es.lproj/Localizable.strings
+t1316539166
+s308
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/icon-72.png
+t1316539166
+s5049
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/icon.png
+t1316539166
+s3126
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/icon@2x.png
+t1316539166
+s5340
+
+N/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/www
+t1316539166
+s340
+
+N/Users/Snowleopard/Desktop/Container/dependencies/RestKit/libRestKitCoreData.a
+c000000004E3A16AD00000000000ECF14
+t1312429741
+s970516
+
+N/Users/Snowleopard/Desktop/Container/dependencies/RestKit/libRestKitNetwork.a
+c000000004E3A16AD0000000000151BC4
+t1312429741
+s1383364
+
+N/Users/Snowleopard/Desktop/Container/dependencies/RestKit/libRestKitObjectMapping.a
+c000000004E3A16AD000000000011FEDC
+t1312429741
+s1179356
+
+N/Users/Snowleopard/Desktop/Container/dependencies/RestKit/libRestKitSupport.a
+c000000004E3A16AD000000000005DB94
+t1312429741
+s383892
+
+N/Users/Snowleopard/Desktop/Container/dependencies/RestKit/libRestKitXMLParserLibxml.a
+c000000004E3A16AD0000000000017F54
+t1312429741
+s98132
+
+N/Users/Snowleopard/Desktop/Container/dependencies/SalesforceOAuth/include/SalesforceOAuth/SFOAuthCoordinator.h
+c000000004E3A16AD0000000000001858
+t1312429741
+s6232
+i<Security/Security.h>
+i<UIKit/UIKit.h>
+i"SFOAuthCredentials.h"
+
+N/Users/Snowleopard/Desktop/Container/dependencies/SalesforceOAuth/include/SalesforceOAuth/SFOAuthCredentials.h
+c000000004E3A16AD0000000000000FA5
+t1312429741
+s4005
+i<Foundation/Foundation.h>
+
+N/Users/Snowleopard/Desktop/Container/dependencies/SalesforceOAuth/libSalesforceOAuth.a
+c000000004E3A16AD0000000000065404
+t1312429741
+s414724
+
+N/Users/Snowleopard/Desktop/Container/dependencies/SalesforceSDK/include/SalesforceSDK/SFRestAPI.h
+c000000004E3A16AD0000000000001895
+t1312429741
+s6293
+i<Foundation/Foundation.h>
+
+N/Users/Snowleopard/Desktop/Container/dependencies/SalesforceSDK/libSalesforceSDK.a
+c000000004E3A16AD000000000002ACAC
+t1312429741
+s175276
+
+N/Users/Snowleopard/Desktop/Container/www
+c000000004E78CB0E0000000000000176
+t1316539150
+s374
+
+N/var/folders/KQ/KQD0vCU4E+eDcbtEfgCX-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudtunesContainer-Prefix-elqvbjvsewltwifqzpdhcmwirldx/CloudtunesContainer-Prefix.pch.gch
+t1316539165
+s11996368
+
+NSFPGContainer/CloudtunesContainer-Info.plist
+c000000004E3B26F6000000000000059E
+t1312499446
+s1438
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies338232005#338232005#0(0"0(0#1#0"8607687552#0"0#
+
+CCompileC build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/AppDelegate.o /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s338232005.455692
+e338232005.490569
+r0
+xCompileC
+xbuild/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/AppDelegate.o
+x/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+oIn file included from /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:9:
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.h:11:39: error: PhoneGap/PhoneGapDelegate.h: No such file or directory
+oIn file included from /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:9:
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.h:18: error: cannot find interface declaration for 'PhoneGapDelegate', superclass of 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:11:45: error: PhoneGap/PhoneGapViewController.h: No such file or directory
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate init]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:42: error: no super class declared in @interface for 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:43: warning: control reaches end of non-void function
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate dealloc]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:48: error: no super class declared in @interface for 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:69: error: request for member 'window' in something not a structure or union
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:70: error: request for member 'window' in something not a structure or union
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:72: error: request for member 'window' in something not a structure or union
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate application:handleOpenURL:]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:82: error: no super class declared in @interface for 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:83: warning: control reaches end of non-void function
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate getCommandInstance:]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:101: error: no super class declared in @interface for 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:102: warning: control reaches end of non-void function
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: At top level:
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:104: error: expected ')' before 'InvokedUrlCommand'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate execute:]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:106: error: no super class declared in @interface for 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:107: warning: control reaches end of non-void function
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate webViewDidFinishLoad:]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:135: error: no super class declared in @interface for 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:135: warning: 'return' with a value, in function returning void
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate webViewDidStartLoad:]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:140: error: no super class declared in @interface for 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:140: warning: 'return' with a value, in function returning void
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate webView:didFailLoadWithError:]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:149: error: no super class declared in @interface for 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:149: warning: 'return' with a value, in function returning void
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate webView:shouldStartLoadWithRequest:navigationType:]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:159: error: no super class declared in @interface for 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:160: warning: control reaches end of non-void function
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate loggedIn]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:180: error: request for member 'viewController' in something not a structure or union
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:182: error: no super class declared in @interface for 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:186: error: request for member 'webView' in something not a structure or union
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate oauthCoordinator:didBeginAuthenticationWithView:]':
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:229: error: request for member 'window' in something not a structure or union
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: At top level:
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: incomplete implementation of class 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-description' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-retainCount' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-autorelease' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-release' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-retain' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-respondsToSelector:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-conformsToProtocol:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isMemberOfClass:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isKindOfClass:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isProxy' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:withObject:withObject:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:withObject:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-zone' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-self' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-class' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-superclass' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-hash' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isEqual:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: class 'AppDelegate' does not fully implement the 'NSObject' protocol
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: incomplete implementation of class 'AppDelegate'
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-description' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-retainCount' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-autorelease' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-release' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-retain' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-respondsToSelector:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-conformsToProtocol:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isMemberOfClass:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isKindOfClass:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isProxy' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:withObject:withObject:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:withObject:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-zone' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-self' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-class' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-superclass' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-hash' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isEqual:' not found
+o/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: class 'AppDelegate' does not fully implement the 'NSObject' protocol
+lSLF07#2@80"Compile /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338232005#338232005#0(11599"In file included from /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:9:/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.h:11:39: error: PhoneGap/PhoneGapDelegate.h: No such file or directoryIn file included from /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:9:/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.h:18: error: cannot find interface declaration for 'PhoneGapDelegate', superclass of 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:11:45: error: PhoneGap/PhoneGapViewController.h: No such file or directory/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate init]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:42: error: no super class declared in @interface for 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:43: warning: control reaches end of non-void function/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate dealloc]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:48: error: no super class declared in @interface for 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate application:didFinishLaunchingWithOptions:]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:69: error: request for member 'window' in something not a structure or union/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:70: error: request for member 'window' in something not a structure or union/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:72: error: request for member 'window' in something not a structure or union/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate application:handleOpenURL:]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:82: error: no super class declared in @interface for 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:83: warning: control reaches end of non-void function/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate getCommandInstance:]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:101: error: no super class declared in @interface for 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:102: warning: control reaches end of non-void function/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: At top level:/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:104: error: expected ')' before 'InvokedUrlCommand'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate execute:]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:106: error: no super class declared in @interface for 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:107: warning: control reaches end of non-void function/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate webViewDidFinishLoad:]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:135: error: no super class declared in @interface for 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:135: warning: 'return' with a value, in function returning void/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate webViewDidStartLoad:]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:140: error: no super class declared in @interface for 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:140: warning: 'return' with a value, in function returning void/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate webView:didFailLoadWithError:]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:149: error: no super class declared in @interface for 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:149: warning: 'return' with a value, in function returning void/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate webView:shouldStartLoadWithRequest:navigationType:]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:159: error: no super class declared in @interface for 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:160: warning: control reaches end of non-void function/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate loggedIn]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:180: error: request for member 'viewController' in something not a structure or union/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:182: error: no super class declared in @interface for 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:186: error: request for member 'webView' in something not a structure or union/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: In function '-[AppDelegate oauthCoordinator:didBeginAuthenticationWithView:]':/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:229: error: request for member 'window' in something not a structure or union/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m: At top level:/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: incomplete implementation of class 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-description' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-retainCount' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-autorelease' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-release' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-retain' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-respondsToSelector:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-conformsToProtocol:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isMemberOfClass:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isKindOfClass:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isProxy' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:withObject:withObject:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:withObject:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-zone' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-self' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-class' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-superclass' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-hash' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isEqual:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: class 'AppDelegate' does not fully implement the 'NSObject' protocol/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: incomplete implementation of class 'AppDelegate'/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-description' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-retainCount' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-autorelease' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-release' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-retain' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-respondsToSelector:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-conformsToProtocol:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isMemberOfClass:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isKindOfClass:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isProxy' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:withObject:withObject:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:withObject:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-performSelector:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-zone' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-self' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-class' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-superclass' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-hash' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: method definition for '-isEqual:' not found/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m:259: warning: class 'AppDelegate' does not fully implement the 'NSObject' protocol72(4@54"PhoneGap/PhoneGapDelegate.h: No such file or directory338232005#98#142#2(7@94"In file included from /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338232005#18446744073709551615#0#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#9#0#9#0#0"0(13@130"PhoneGap/PhoneGapDelegate.h: No such file or directory in /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.h338232005#18446744073709551615#0#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.h334192260#11#0#11#0#0"0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.h334192260#11#0#11#0#28"*: No such file or directory0(4@85"Cannot find interface declaration for 'PhoneGapDelegate', superclass of 'AppDelegate'338232005#338#170#2(7@94"In file included from /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338232005#18446744073709551615#0#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#9#0#9#0#0"0(13@161"Cannot find interface declaration for 'PhoneGapDelegate', superclass of 'AppDelegate' in /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.h338232005#18446744073709551615#0#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.h334192260#18#0#18#0#0"0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.h334192260#18#0#18#0#60"cannot find interface declaration for '*', superclass of '*'0(4@60"PhoneGap/PhoneGapViewController.h: No such file or directory338232005#508#148#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#11#0#11#0#28"*: No such file or directory0(4@55"No super class declared in @interface for 'AppDelegate'338232005#765#140#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#42#0#42#0#0"0(22@40"Control reaches end of non-void function338232005#905#127#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#43#0#43#0#40"control reaches end of non-void function0(4@55"No super class declared in @interface for 'AppDelegate'338232005#1144#140#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#48#0#48#0#0"0(4@65"Request for member 'window' in something not a structure or union338232005#1431#150#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#69#0#69#0#0"0(4@65"Request for member 'window' in something not a structure or union338232005#1581#150#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#70#0#70#0#0"0(4@65"Request for member 'window' in something not a structure or union338232005#1731#150#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#72#0#72#0#0"0(4@55"No super class declared in @interface for 'AppDelegate'338232005#2012#140#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#82#0#82#0#0"0(22@40"Control reaches end of non-void function338232005#2152#127#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#83#0#83#0#40"control reaches end of non-void function0(4@55"No super class declared in @interface for 'AppDelegate'338232005#2403#141#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#101#0#101#0#0"0(22@40"Control reaches end of non-void function338232005#2544#128#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#102#0#102#0#40"control reaches end of non-void function0(23@13"At top level:338232005#2672#88#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#0#0#0#0#0"0(4@39"Expected ')' before 'InvokedUrlCommand'338232005#2760#125#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#104#0#104#0#19"expected * before *0(4@55"No super class declared in @interface for 'AppDelegate'338232005#2998#141#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#106#0#106#0#0"0(22@40"Control reaches end of non-void function338232005#3139#128#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#107#0#107#0#40"control reaches end of non-void function0(4@55"No super class declared in @interface for 'AppDelegate'338232005#3393#141#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#135#0#135#0#0"0(22@49"'return' with a value, in function returning void338232005#3534#137#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#135#0#135#0#0"0(4@55"No super class declared in @interface for 'AppDelegate'338232005#3796#141#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#140#0#140#0#0"0(22@49"'return' with a value, in function returning void338232005#3937#137#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#140#0#140#0#0"0(4@55"No super class declared in @interface for 'AppDelegate'338232005#4208#141#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#149#0#149#0#0"0(22@49"'return' with a value, in function returning void338232005#4349#137#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#149#0#149#0#0"0(4@55"No super class declared in @interface for 'AppDelegate'338232005#4641#141#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#159#0#159#0#0"0(22@40"Control reaches end of non-void function338232005#4782#128#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#160#0#160#0#40"control reaches end of non-void function0(4@73"Request for member 'viewController' in something not a structure or union338232005#5023#159#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#180#0#180#0#0"0(4@55"No super class declared in @interface for 'AppDelegate'338232005#5182#141#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#182#0#182#0#0"0(4@66"Request for member 'webView' in something not a structure or union338232005#5323#152#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#186#0#186#0#0"0(4@65"Request for member 'window' in something not a structure or union338232005#5628#151#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#229#0#229#0#0"0(23@13"At top level:338232005#5779#88#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#0#0#0#0#0"0(22@48"Incomplete implementation of class 'AppDelegate'338232005#5867#136#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#38"incomplete implementation of class '*'0(22@46"Method definition for '-description' not found338232005#6003#134#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@46"Method definition for '-retainCount' not found338232005#6137#134#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@46"Method definition for '-autorelease' not found338232005#6271#134#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@42"Method definition for '-release' not found338232005#6405#130#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@41"Method definition for '-retain' not found338232005#6535#129#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@54"Method definition for '-respondsToSelector:' not found338232005#6664#142#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@54"Method definition for '-conformsToProtocol:' not found338232005#6806#142#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@51"Method definition for '-isMemberOfClass:' not found338232005#6948#139#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@49"Method definition for '-isKindOfClass:' not found338232005#7087#137#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@42"Method definition for '-isProxy' not found338232005#7224#130#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@73"Method definition for '-performSelector:withObject:withObject:' not found338232005#7354#161#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@62"Method definition for '-performSelector:withObject:' not found338232005#7515#150#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@51"Method definition for '-performSelector:' not found338232005#7665#139#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@39"Method definition for '-zone' not found338232005#7804#127#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@39"Method definition for '-self' not found338232005#7931#127#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@40"Method definition for '-class' not found338232005#8058#128#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@45"Method definition for '-superclass' not found338232005#8186#133#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@39"Method definition for '-hash' not found338232005#8319#127#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@43"Method definition for '-isEqual:' not found338232005#8446#131#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@68"Class 'AppDelegate' does not fully implement the 'NSObject' protocol338232005#8577#156#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#51"class '*' does not fully implement the '*' protocol0(22@48"Incomplete implementation of class 'AppDelegate'338232005#8733#136#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#38"incomplete implementation of class '*'0(22@46"Method definition for '-description' not found338232005#8869#134#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@46"Method definition for '-retainCount' not found338232005#9003#134#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@46"Method definition for '-autorelease' not found338232005#9137#134#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@42"Method definition for '-release' not found338232005#9271#130#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@41"Method definition for '-retain' not found338232005#9401#129#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@54"Method definition for '-respondsToSelector:' not found338232005#9530#142#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@54"Method definition for '-conformsToProtocol:' not found338232005#9672#142#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@51"Method definition for '-isMemberOfClass:' not found338232005#9814#139#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@49"Method definition for '-isKindOfClass:' not found338232005#9953#137#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@42"Method definition for '-isProxy' not found338232005#10090#130#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@73"Method definition for '-performSelector:withObject:withObject:' not found338232005#10220#161#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@62"Method definition for '-performSelector:withObject:' not found338232005#10381#150#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@51"Method definition for '-performSelector:' not found338232005#10531#139#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@39"Method definition for '-zone' not found338232005#10670#127#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@39"Method definition for '-self' not found338232005#10797#127#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@40"Method definition for '-class' not found338232005#10924#128#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@45"Method definition for '-superclass' not found338232005#11052#133#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@39"Method definition for '-hash' not found338232005#11185#127#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@43"Method definition for '-isEqual:' not found338232005#11312#131#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#35"method definition for '*' not found0(22@68"Class 'AppDelegate' does not fully implement the 'NSObject' protocol338232005#11443#156#0(6@72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m338231825#259#0#259#0#51"class '*' does not fully implement the '*' protocol0(0#0#72"/Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m8605109280#1796"    cd /Users/Snowleopard/Desktop/Container    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -I/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/CloudtunesContainer.hmap -F/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator -F/Users/Shared/PhoneGap/Frameworks -I/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/include -I/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/DerivedSources/i386 -I/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/KQ/KQD0vCU4E+eDcbtEfgCX-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudtunesContainer-Prefix-elqvbjvsewltwifqzpdhcmwirldx/CloudtunesContainer-Prefix.pch -c /Users/Snowleopard/Desktop/Container/SFPGContainer/Classes/AppDelegate.m -o /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/AppDelegate.o1#
+
+CCompileC build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/main.o /Users/Snowleopard/Desktop/Container/SFPGContainer/main.m normal i386 objective-c com.apple.compilers.llvmgcc42
+s338231965.902296
+e338231966.044648
+r1
+xCompileC
+xbuild/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/main.o
+x/Users/Snowleopard/Desktop/Container/SFPGContainer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@65"Compile /Users/Snowleopard/Desktop/Container/SFPGContainer/main.m338231965#338231966#0(0"0(0#0#57"/Users/Snowleopard/Desktop/Container/SFPGContainer/main.m8606945536#1774"    cd /Users/Snowleopard/Desktop/Container    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -I/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/CloudtunesContainer.hmap -F/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator -F/Users/Shared/PhoneGap/Frameworks -I/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/include -I/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/DerivedSources/i386 -I/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -include /var/folders/KQ/KQD0vCU4E+eDcbtEfgCX-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudtunesContainer-Prefix-elqvbjvsewltwifqzpdhcmwirldx/CloudtunesContainer-Prefix.pch -c /Users/Snowleopard/Desktop/Container/SFPGContainer/main.m -o /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/main.o0#
+
+CCopyPlistFile /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/PhoneGap.plist SFPGContainer/PhoneGap.plist
+s338231966.049755
+e338231966.309512
+r1
+xCopyPlistFile
+x/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/PhoneGap.plist
+xSFPGContainer/PhoneGap.plist
+lSLF07#2@33"Copy SFPGContainer/PhoneGap.plist338231966#338231966#0(0"0(0#0#65"/Users/Snowleopard/Desktop/Container/SFPGContainer/PhoneGap.plist8605567648#411"    cd /Users/Snowleopard/Desktop/Container    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist --convert binary1 SFPGContainer/PhoneGap.plist --outdir /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app0#
+
+CCopyStringsFile /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/en.lproj/InfoPlist.strings SFPGContainer/en.lproj/InfoPlist.strings
+s338231966.044694
+e338231966.307097
+r1
+xCopyStringsFile
+x/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/en.lproj/InfoPlist.strings
+xSFPGContainer/en.lproj/InfoPlist.strings
+lSLF07#2@45"Copy SFPGContainer/en.lproj/InfoPlist.strings338231966#338231966#0(0"0(0#0#77"/Users/Snowleopard/Desktop/Container/SFPGContainer/en.lproj/InfoPlist.strings8605274560#505"    cd /Users/Snowleopard/Desktop/Container    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary SFPGContainer/en.lproj/InfoPlist.strings --outdir /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/en.lproj0#
+
+CCopyStringsFile /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/en.lproj/Localizable.strings SFPGContainer/Resources/en.lproj/Localizable.strings
+s338231966.045292
+e338231966.307258
+r1
+xCopyStringsFile
+x/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/en.lproj/Localizable.strings
+xSFPGContainer/Resources/en.lproj/Localizable.strings
+lSLF07#2@57"Copy SFPGContainer/Resources/en.lproj/Localizable.strings338231966#338231966#0(0"0(0#0#89"/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/en.lproj/Localizable.strings8607380992#517"    cd /Users/Snowleopard/Desktop/Container    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary SFPGContainer/Resources/en.lproj/Localizable.strings --outdir /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/en.lproj0#
+
+CCopyStringsFile /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/es.lproj/Localizable.strings SFPGContainer/Resources/es.lproj/Localizable.strings
+s338231966.045885
+e338231966.306868
+r1
+xCopyStringsFile
+x/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/es.lproj/Localizable.strings
+xSFPGContainer/Resources/es.lproj/Localizable.strings
+lSLF07#2@57"Copy SFPGContainer/Resources/es.lproj/Localizable.strings338231966#338231966#0(0"0(0#0#89"/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/es.lproj/Localizable.strings8598972224#517"    cd /Users/Snowleopard/Desktop/Container    setenv ICONV /usr/bin/iconv    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding binary SFPGContainer/Resources/es.lproj/Localizable.strings --outdir /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/es.lproj0#
+
+CCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/Capture.bundle SFPGContainer/Resources/Capture.bundle
+s338231966.049267
+e338231966.309673
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CloudtunesContainer.app/Capture.bundle
+xSFPGContainer/Resources/Capture.bundle
+lSLF07#2@43"Copy SFPGContainer/Resources/Capture.bundle338231966#338231966#0(0"0(0#0#75"/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/Capture.bundle8601350144#502"    cd /Users/Snowleopard/Desktop/Container    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/Capture.bundle /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app0#
+
+CCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/Default-Portrait~ipad.png SFPGContainer/Resources/splash/Default-Portrait~ipad.png
+s338231966.308833
+e338231966.331663
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CloudtunesContainer.app/Default-Portrait~ipad.png
+xSFPGContainer/Resources/splash/Default-Portrait~ipad.png
+lSLF07#2@61"Copy SFPGContainer/Resources/splash/Default-Portrait~ipad.png338231966#338231966#0(0"0(0#0#93"/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default-Portrait~ipad.png8606916704#520"    cd /Users/Snowleopard/Desktop/Container    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default-Portrait~ipad.png /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app0#
+
+CCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/Default.png SFPGContainer/Resources/splash/Default.png
+s338231966.048244
+e338231966.164080
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CloudtunesContainer.app/Default.png
+xSFPGContainer/Resources/splash/Default.png
+lSLF07#2@47"Copy SFPGContainer/Resources/splash/Default.png338231966#338231966#0(0"0(0#0#79"/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default.png8607323520#506"    cd /Users/Snowleopard/Desktop/Container    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default.png /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app0#
+
+CCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/Default@2x.png SFPGContainer/Resources/splash/Default@2x.png
+s338231966.048845
+e338231966.181458
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CloudtunesContainer.app/Default@2x.png
+xSFPGContainer/Resources/splash/Default@2x.png
+lSLF07#2@50"Copy SFPGContainer/Resources/splash/Default@2x.png338231966#338231966#0(0"0(0#0#82"/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default@2x.png8607015776#509"    cd /Users/Snowleopard/Desktop/Container    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default@2x.png /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app0#
+
+CCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/Default~iPad.png SFPGContainer/Resources/splash/Default~iPad.png
+s338231966.308171
+e338231966.331338
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CloudtunesContainer.app/Default~iPad.png
+xSFPGContainer/Resources/splash/Default~iPad.png
+lSLF07#2@52"Copy SFPGContainer/Resources/splash/Default~iPad.png338231966#338231966#0(0"0(0#0#84"/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default~iPad.png8607036288#511"    cd /Users/Snowleopard/Desktop/Container    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/splash/Default~iPad.png /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app0#
+
+CCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/icon-72.png SFPGContainer/Resources/icons/icon-72.png
+s338231966.047625
+e338231966.161612
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CloudtunesContainer.app/icon-72.png
+xSFPGContainer/Resources/icons/icon-72.png
+lSLF07#2@46"Copy SFPGContainer/Resources/icons/icon-72.png338231966#338231966#0(0"0(0#0#78"/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/icons/icon-72.png8605329120#505"    cd /Users/Snowleopard/Desktop/Container    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/icons/icon-72.png /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app0#
+
+CCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/icon.png SFPGContainer/Resources/icons/icon.png
+s338231966.046457
+e338231966.163209
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CloudtunesContainer.app/icon.png
+xSFPGContainer/Resources/icons/icon.png
+lSLF07#2@43"Copy SFPGContainer/Resources/icons/icon.png338231966#338231966#0(0"0(0#0#75"/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/icons/icon.png8605359904#502"    cd /Users/Snowleopard/Desktop/Container    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/icons/icon.png /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app0#
+
+CCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/icon@2x.png SFPGContainer/Resources/icons/icon@2x.png
+s338231966.047043
+e338231966.141150
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CloudtunesContainer.app/icon@2x.png
+xSFPGContainer/Resources/icons/icon@2x.png
+lSLF07#2@46"Copy SFPGContainer/Resources/icons/icon@2x.png338231966#338231966#0(0"0(0#0#78"/Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/icons/icon@2x.png8605561952#505"    cd /Users/Snowleopard/Desktop/Container    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Snowleopard/Desktop/Container/SFPGContainer/Resources/icons/icon@2x.png /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app0#
+
+CCpResource build/Debug-iphonesimulator/CloudtunesContainer.app/www www
+s338231966.307368
+e338231966.334143
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/CloudtunesContainer.app/www
+xwww
+lSLF07#2@8"Copy www338231966#338231966#0(0"0(0#0#40"/Users/Snowleopard/Desktop/Container/www32651513917341812#467"    cd /Users/Snowleopard/Desktop/Container    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/Snowleopard/Desktop/Container/www /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app0#
+
+CGenerateDSYMFile /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app.dSYM /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/CloudtunesContainer
+r0
+
+CLd /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/CloudtunesContainer normal i386
+r0
+
+CPhaseScriptExecution "Run Script" /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Script-C212D86C13E7253C00EAF26D.sh
+s338232005.491365
+e338232005.499649
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Script-C212D86C13E7253C00EAF26D.sh
+o		C212D8CB13E7265A00EAF26D /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };
+lSLF07#2@36"Run custom shell script 'Run Script'338232005#338232005#0(131"		C212D8CB13E7265A00EAF26D /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };1(13@131"		C212D8CB13E7265A00EAF26D /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };338232005#0#131#0(1@0"0(0#0#0"8607106848#18624"    cd /Users/Snowleopard/Desktop/Container    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER Snowleopard    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/Snowleopard/Desktop/Container/build    setenv BUILD_ROOT /Users/Snowleopard/Desktop/Container/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/KQ/KQD0vCU4E+eDcbtEfgCX-E+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/KQ/KQD0vCU4E+eDcbtEfgCX-E+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/KQ/KQD0vCU4E+eDcbtEfgCX-E+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH CloudtunesContainer.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH CloudtunesContainer.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/CloudtunesContainer.dst    setenv DWARF_DSYM_FILE_NAME CloudtunesContainer.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH CloudtunesContainer.app/Executables    setenv EXECUTABLE_FOLDER_PATH CloudtunesContainer.app    setenv EXECUTABLE_NAME CloudtunesContainer    setenv EXECUTABLE_PATH CloudtunesContainer.app/CloudtunesContainer    setenv FILE_LIST /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH CloudtunesContainer.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator\" /Users/Shared/PhoneGap/Frameworks"    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME CloudtunesContainer.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD gnu99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER SFPGContainer/CloudtunesContainer-Prefix.pch    setenv GCC_PREPROCESSOR_DEFINITIONS PHONEGAP_FRAMEWORK=YES    setenv GCC_SYMBOLS_PRIVATE_EXTERN NO    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION com.apple.compilers.llvmgcc42    setenv GCC_VERSION_IDENTIFIER com_apple_compilers_llvmgcc42    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/include\" "    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE SFPGContainer/CloudtunesContainer-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH CloudtunesContainer.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH CloudtunesContainer.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/CloudtunesContainer.dst/Users/Snowleopard/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER Snowleopard    setenv INSTALL_PATH /Users/Snowleopard/Applications    setenv INSTALL_ROOT /tmp/CloudtunesContainer.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.3    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH CloudtunesContainer.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/CloudtunesContainer-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator\"  \"/Users/Snowleopard/Desktop/Container/dependencies/RestKit\" \"/Users/Snowleopard/Desktop/Container/dependencies/SalesforceOAuth\" \"/Users/Snowleopard/Desktop/Container/dependencies/SalesforceSDK\""    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal/i386/CloudtunesContainer.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH CloudtunesContainer.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Objects-normal    setenv OBJROOT /Users/Snowleopard/Desktop/Container/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS "-ObjC -all_load"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH CloudtunesContainer.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PHONEGAPLIB /Users/Snowleopard/Documents/PhoneGapLib    setenv PKGINFO_FILE_PATH /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/PkgInfo    setenv PKGINFO_PATH CloudtunesContainer.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH CloudtunesContainer.app/PlugIns    setenv PREBINDING YES    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH CloudtunesContainer.app/PrivateHeaders    setenv PRODUCT_NAME CloudtunesContainer    setenv PRODUCT_SETTINGS_PATH /Users/Snowleopard/Desktop/Container/SFPGContainer/CloudtunesContainer-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT CloudtunesContainer    setenv PROJECT_DERIVED_FILE_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/DerivedSources    setenv PROJECT_DIR /Users/Snowleopard/Desktop/Container    setenv PROJECT_FILE_PATH /Users/Snowleopard/Desktop/Container/CloudtunesContainer.xcodeproj    setenv PROJECT_NAME CloudtunesContainer    setenv PROJECT_TEMP_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build    setenv PUBLIC_HEADERS_FOLDER_PATH CloudtunesContainer.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH CloudtunesContainer.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH CloudtunesContainer.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/KQ/KQD0vCU4E+eDcbtEfgCX-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH CloudtunesContainer.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/Snowleopard/Desktop/Container    setenv SRCROOT /Users/Snowleopard/Desktop/Container    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/SymbolRepositories    setenv SYMROOT /Users/Snowleopard/Desktop/Container/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1,2    setenv TARGETNAME CloudtunesContainer    setenv TARGET_BUILD_DIR /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator    setenv TARGET_NAME CloudtunesContainer    setenv TARGET_TEMP_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build    setenv TEMP_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build    setenv TEMP_FILES_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build    setenv TEMP_FILE_DIR /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build    setenv TEMP_ROOT /Users/Snowleopard/Desktop/Container/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH CloudtunesContainer.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER Snowleopard    setenv USER_APPS_DIR /Users/Snowleopard/Applications    setenv USER_LIBRARY_DIR /Users/Snowleopard/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH CloudtunesContainer.app/version.plist    setenv VERSION_INFO_BUILDER Snowleopard    setenv VERSION_INFO_FILE CloudtunesContainer_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:CloudtunesContainer  PROJECT:CloudtunesContainer-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME CloudtunesContainer.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/Script-C212D86C13E7253C00EAF26D.sh0#
+
+CProcessInfoPlistFile /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/Info.plist SFPGContainer/CloudtunesContainer-Info.plist
+s338231965.109247
+e338231965.135064
+r1
+xProcessInfoPlistFile
+x/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/Info.plist
+xSFPGContainer/CloudtunesContainer-Info.plist
+lSLF07#2@52"Process SFPGContainer/CloudtunesContainer-Info.plist338231965#338231965#0(0"0(0#0#81"/Users/Snowleopard/Desktop/Container/SFPGContainer/CloudtunesContainer-Info.plist31525394967363688#523"    cd /Users/Snowleopard/Desktop/Container    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SFPGContainer/CloudtunesContainer-Info.plist -genpkginfo /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app/Info.plist0#
+
+CProcessPCH /var/folders/KQ/KQD0vCU4E+eDcbtEfgCX-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudtunesContainer-Prefix-elqvbjvsewltwifqzpdhcmwirldx/CloudtunesContainer-Prefix.pch.gch SFPGContainer/CloudtunesContainer-Prefix.pch normal i386 objective-c com.apple.compilers.llvmgcc42
+s338231965.135160
+e338231965.902223
+r1
+xProcessPCH
+x/var/folders/KQ/KQD0vCU4E+eDcbtEfgCX-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudtunesContainer-Prefix-elqvbjvsewltwifqzpdhcmwirldx/CloudtunesContainer-Prefix.pch.gch
+xSFPGContainer/CloudtunesContainer-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvmgcc42
+lSLF07#2@55"Precompile SFPGContainer/CloudtunesContainer-Prefix.pch338231965#338231965#0(0"0(0#0#81"/Users/Snowleopard/Desktop/Container/SFPGContainer/CloudtunesContainer-Prefix.pch8603750528#1656"    cd /Users/Snowleopard/Desktop/Container    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/llvm-gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -DPHONEGAP_FRAMEWORK=YES -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -I/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/CloudtunesContainer.hmap -F/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator -F/Users/Shared/PhoneGap/Frameworks -I/Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/include -I/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/DerivedSources/i386 -I/Users/Snowleopard/Desktop/Container/build/CloudtunesContainer.build/Debug-iphonesimulator/CloudtunesContainer.build/DerivedSources -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -c /Users/Snowleopard/Desktop/Container/SFPGContainer/CloudtunesContainer-Prefix.pch -o /var/folders/KQ/KQD0vCU4E+eDcbtEfgCX-E+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CloudtunesContainer-Prefix-elqvbjvsewltwifqzpdhcmwirldx/CloudtunesContainer-Prefix.pch.gch0#
+
+CTouch /Users/Snowleopard/Desktop/Container/build/Debug-iphonesimulator/CloudtunesContainer.app
+r0
+
